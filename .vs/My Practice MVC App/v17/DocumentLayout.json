@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CODES\\ASP.NET\\My Practice MVC App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|c:\\codes\\asp.net\\my practice mvc app\\my practice mvc app\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|solutionrelative:my practice mvc app\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|c:\\codes\\asp.net\\my practice mvc app\\my practice mvc app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|solutionrelative:my practice mvc app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|c:\\codes\\asp.net\\my practice mvc app\\my practice mvc app\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|solutionrelative:my practice mvc app\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|c:\\codes\\asp.net\\my practice mvc app\\my practice mvc app\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|solutionrelative:my practice mvc app\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|c:\\codes\\asp.net\\my practice mvc app\\my practice mvc app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D042618-4617-4ADB-8990-F27746D3406C}|My Practice MVC App\\My Practice MVC App.csproj|solutionrelative:my practice mvc app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "My Practice MVC App\\Models\\Person.cs",
+              "ToolTip": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Models\\Person.cs",
+              "RelativeToolTip": "My Practice MVC App\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T02:12:06.409Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "My Practice MVC App\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "My Practice MVC App\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T02:41:07.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "My Practice MVC App\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "My Practice MVC App\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T02:34:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "My Practice MVC App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "My Practice MVC App\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:42:18.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "My Practice MVC App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\CODES\\ASP.NET\\My Practice MVC App\\My Practice MVC App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "My Practice MVC App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T01:53:32.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

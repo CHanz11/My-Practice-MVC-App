@@ -1,0 +1,23 @@
+﻿@model My_Practice_MVC_App.Models.Person;
+
+<h2>Enter Person Details</h2>
+
+<form asp-action="Create" method="post">
+
+    <label>Name:</label>
+    <input type="text" asp-for="Name" required>
+    <span asp-validation-for="Name" style="color: red;"></span>
+    <br/>
+
+    <label>Age:</label>
+    <input type="number" asp-for="Age" required>
+    <span asp-validation-for="Age" style="color: red;"></span>
+    <br />
+    
+    <button type="submit">Submit</button>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

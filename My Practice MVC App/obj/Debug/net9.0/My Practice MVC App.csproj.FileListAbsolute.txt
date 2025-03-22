@@ -1,0 +1,99 @@
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\appsettings.Development.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\appsettings.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\My Practice MVC App.staticwebassets.runtime.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\My Practice MVC App.staticwebassets.endpoints.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\My Practice MVC App.exe
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\My Practice MVC App.deps.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\My Practice MVC App.runtimeconfig.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\My Practice MVC App.dll
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\bin\Debug\net9.0\My Practice MVC App.pdb
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.AssemblyInfoInputs.cache
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.AssemblyInfo.cs
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.csproj.CoreCompileInputs.cache
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.MvcApplicationPartsAssemblyInfo.cache
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.RazorAssemblyInfo.cache
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.RazorAssemblyInfo.cs
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.sourcelink.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\scopedcss\bundle\My Practice MVC App.styles.css
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\scopedcss\projectbundle\My Practice MVC App.bundle.scp.css
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\icws1q0npm-b9sayid5wm.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\95e249rorm-61n19gt1b8.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\6a4kux3yi9-xtxxf3hu2r.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\xn3m342gnf-bqjiyaj88i.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\tl4qe849xb-c2jlpeoesf.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\9qyjeik7dq-erw9l3u2r3.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\tz6afxv4ll-aexeepp0ev.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\e49ickhguf-d7shbmvgxk.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\9r7sgj9bcp-ausgxo2sd3.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\45nvbdrfni-k8d9w2qqmf.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\du8tydidun-cosvhxvwiu.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\2vdt2i8hfn-ub07r2b239.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\sophnvqqvb-fvhpjtyr6v.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\s51cspbse8-b7pk76d08c.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\qeyv250r54-fsbi9cje9m.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\cqkw172tbq-rzd6atqjts.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\stn049mc5w-ee0r1s7dh0.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\cs13687fcu-dxx9fxp4il.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\qjocsa08fj-jd9uben2k1.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\m9l6elah6t-khv3u5hwcm.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\vxqx86btey-r4e9w2rdcm.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\svjf2xnl9v-lcd1t2u6c8.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\tdg0guxhyu-c2oey78nd0.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\5a4evhzq36-tdbxkamptv.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\y7vcx2rqwh-j5mq2jizvt.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\gh8klfabjd-06098lyss8.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\5llpni29yz-nvvlpmu67g.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\ccft52t8u4-s35ty4nyc5.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\o6oegeus2l-pj5nd1wqec.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\u35du4a02i-46ein0sx1k.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\20mfdwp6p8-v0zj4ognzu.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\c2lzdtibsa-37tfw0ft22.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\1go6e9ah08-hrwsygsryq.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\htyyq7r6sz-pk9g2wxc8p.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\ikdbna5clh-ft3s53vfgj.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\fzltcvp5vs-6cfz1n2cew.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\p9m9o2tvoe-6pdc2jztkx.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\jhpi0rka00-493y06b0oq.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\fryw32cea2-iovd86k7lj.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\syo5fqftqm-vr1egmr9el.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\gcvdxxqyvm-kbrnm935zg.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\cb9dvncylr-jj8uyg4cgr.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\7brx4qcf15-y7v9cxd14o.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\7agzfji7xw-notf2xhcfb.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\gvzesixloz-h1s4sie4z3.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\ap559j88p3-63fj8s7r0e.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\oljdb1mgtf-0j3bgjxly4.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\re4hl7gxu5-47otxtyo56.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\7zltacvv4f-4v8eqarkd7.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\9iib0wtfbm-356vix0kms.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\eqmskwc6y7-83jwlth58m.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\wz3w3184jv-mrlpezrjn3.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\temuhz5l27-lzl9nlhx6b.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\bzi7tyltxr-ag7o75518u.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\2eq3gqklmk-x0q3zqp4vz.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\pd8w2nyhq1-0i3buxo5is.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\ff2kuzt7b1-o1o13a6vjx.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\3c7ya0032w-ttgo8qnofa.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\3thm689s1q-2z0ns9nrw6.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\m8rqms4166-muycvpuwrr.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\23a6th8fha-87fc7y1x7t.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\gm3ln6r6ti-mlv21k5csn.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\fitgemngr4-zrcjviawlm.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\compressed\71yqof51q8-zrcjviawlm.gz
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets.build.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets.development.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets\msbuild.My Practice MVC App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets\msbuild.My Practice MVC App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets\msbuild.build.My Practice MVC App.props
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.My Practice MVC App.props
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.My Practice MVC App.props
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets.pack.json
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.dll
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\refint\My Practice MVC App.dll
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.pdb
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\My Practice MVC App.genruntimeconfig.cache
+C:\CODES\ASP.NET\My Practice MVC App\My Practice MVC App\obj\Debug\net9.0\ref\My Practice MVC App.dll
