@@ -5,6 +5,13 @@ namespace My_Practice_MVC_App.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly AppDbContext _context;
+
+        public HomeController(AppDbContext context)
+        {
+            _context = context;
+        }
+
         public IActionResult Create()
         {
             return View();
@@ -16,17 +23,20 @@ namespace My_Practice_MVC_App.Controllers
         {
             if(ModelState.IsValid)
             {
-                //Redirect to the Details page with the submitted Data
-                return RedirectToAction("Details", person);
+                _context.People.Add(person); // Add data to the database
+                _context.SaveChanges(); //Save Changes
+                return RedirectToAction("List");
             }
 
             return View(person);
         }
 
-        //Display the submitted Details
-        public IActionResult Details(Person person)
+        //Display the submitted List
+        public IActionResult List()
         {
-            return View(person);
+            var people = _context.People.ToList(); // Get all records
+            return View(people);
+
         }
 
         

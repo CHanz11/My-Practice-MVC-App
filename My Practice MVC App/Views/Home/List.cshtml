@@ -1,0 +1,19 @@
+﻿@model List<My_Practice_MVC_App.Models.Person>
+
+<h2>People List</h2>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    @foreach(var person in Model)
+    {
+        <tr>
+            <td>@person.Name</td>
+            <td>@person.Age</td>
+        </tr>
+    }
+</table>
+
+<a href="/Home/Create">Add New Person</a>

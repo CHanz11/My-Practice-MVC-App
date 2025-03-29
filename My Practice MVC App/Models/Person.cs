@@ -4,6 +4,9 @@ namespace My_Practice_MVC_App.Models
 {
     public class Person
     {
+        [Key] // ✅ Defines Id as the Primary Key
+        public int Id { get; set; }
+
         [Required(ErrorMessage = "Name is Required.") ]
         [StringLength(50, ErrorMessage = "Name Cannot Exceed 50 characters.")]
         public string Name { get; set; }
